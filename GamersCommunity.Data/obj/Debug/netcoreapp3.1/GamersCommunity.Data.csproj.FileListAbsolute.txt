@@ -1,0 +1,10 @@
+D:\Projects\DOTNET Core\GamersCommunity.Data\bin\Debug\netcoreapp3.1\GamersCommunity.Data.deps.json
+D:\Projects\DOTNET Core\GamersCommunity.Data\bin\Debug\netcoreapp3.1\GamersCommunity.Data.dll
+D:\Projects\DOTNET Core\GamersCommunity.Data\obj\Debug\netcoreapp3.1\GamersCommunity.Data.AssemblyInfoInputs.cache
+D:\Projects\DOTNET Core\GamersCommunity.Data\obj\Debug\netcoreapp3.1\GamersCommunity.Data.AssemblyInfo.cs
+D:\Projects\DOTNET Core\GamersCommunity.Data\obj\Debug\netcoreapp3.1\GamersCommunity.Data.csprojAssemblyReference.cache
+D:\Projects\DOTNET Core\GamersCommunity.Data\bin\Debug\netcoreapp3.1\GamersCommunity.Data.runtimeconfig.json
+D:\Projects\DOTNET Core\GamersCommunity.Data\bin\Debug\netcoreapp3.1\GamersCommunity.Data.runtimeconfig.dev.json
+D:\Projects\DOTNET Core\GamersCommunity.Data\bin\Debug\netcoreapp3.1\GamersCommunity.Data.pdb
+D:\Projects\DOTNET Core\GamersCommunity.Data\obj\Debug\netcoreapp3.1\GamersCommunity.Data.dll
+D:\Projects\DOTNET Core\GamersCommunity.Data\obj\Debug\netcoreapp3.1\GamersCommunity.Data.pdb

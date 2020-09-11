@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewData["Title"] = "Genre List";
+}
+<h1>Genre List</h1>
+<p>
+    <a asp-action="AddGenre">New Genre <i class="fa fa-plus-circle" aria-hidden="true"></i></a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                Genre Name
+            </th>
+            <th>
+                Created By
+            </th>
+            <th>
+                Created Date
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.ListObj)
+        {
+            <tr>
+                <td>
+                    @item.Genre
+                </td>
+                <td>
+                    @item.CreatedBy
+                </td>
+                <td>
+                    @item.CreatedDate
+                </td>
+                <td>
+                    @Html.ActionLink("Update", "UpdateGenre", new { Id = @item.Id }) |
+                    @Html.ActionLink("Delete", "DeleteGenre", new { Id = @item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

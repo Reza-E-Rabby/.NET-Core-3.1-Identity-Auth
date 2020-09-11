@@ -1,0 +1,11 @@
+D:\Projects\DOTNET Core\GamersCommunity.Repo\bin\Debug\netcoreapp3.1\GamersCommunity.Repo.deps.json
+D:\Projects\DOTNET Core\GamersCommunity.Repo\bin\Debug\netcoreapp3.1\GamersCommunity.Repo.dll
+D:\Projects\DOTNET Core\GamersCommunity.Repo\bin\Debug\netcoreapp3.1\GamersCommunity.Repo.pdb
+D:\Projects\DOTNET Core\GamersCommunity.Repo\bin\Debug\netcoreapp3.1\GamersCommunity.Data.dll
+D:\Projects\DOTNET Core\GamersCommunity.Repo\bin\Debug\netcoreapp3.1\GamersCommunity.Data.pdb
+D:\Projects\DOTNET Core\GamersCommunity.Repo\obj\Debug\netcoreapp3.1\GamersCommunity.Repo.csprojAssemblyReference.cache
+D:\Projects\DOTNET Core\GamersCommunity.Repo\obj\Debug\netcoreapp3.1\GamersCommunity.Repo.AssemblyInfoInputs.cache
+D:\Projects\DOTNET Core\GamersCommunity.Repo\obj\Debug\netcoreapp3.1\GamersCommunity.Repo.AssemblyInfo.cs
+D:\Projects\DOTNET Core\GamersCommunity.Repo\obj\Debug\netcoreapp3.1\GamersCommunity.Repo.csproj.CopyComplete
+D:\Projects\DOTNET Core\GamersCommunity.Repo\obj\Debug\netcoreapp3.1\GamersCommunity.Repo.dll
+D:\Projects\DOTNET Core\GamersCommunity.Repo\obj\Debug\netcoreapp3.1\GamersCommunity.Repo.pdb
